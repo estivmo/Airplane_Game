@@ -1,5 +1,17 @@
 #ocean {
-    background-image: url("img/ocean.jpg");
-    width: 900 px ;
+    background-image: url("img/Space-Background-Image-2.jpg");
+    width: 900px ;
     height: 700px;
+}
+.player {
+    position: absolute;
+    background-image: url("img/192-1925983_space-invaders-png-space-invaders-alien.png");
+    width: 70px;
+    height: 75px;
+}
+.enemy {
+    position: absolute;
+    background-image: url("img/192-1925983_space-invaders-png-space-invaders-alien.png");
+    width: 70px;
+    height: 75px;
 }

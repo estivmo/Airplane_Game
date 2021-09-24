@@ -1,0 +1,8 @@
+Additional Functions for later
+
+if(e.keyCode == 38){ // up
+            player.top = player.top = + 10;
+        }
+        if(e.keyCode == 40){ // down
+            player.top = player.top = - 10;
+        }        
